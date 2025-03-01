@@ -1,0 +1,15 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: 'Copperplate';
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+a {
+  color: white;
+  font-size: xx-large;
+}
