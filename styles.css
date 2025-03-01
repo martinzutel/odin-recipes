@@ -1,6 +1,6 @@
 body {
   color: white;
-  background-color: black;
+  background-color: rgb(38, 38, 38);
   font-family: 'Copperplate';
 }
 
@@ -12,4 +12,8 @@ img {
 a {
   color: white;
   font-size: xx-large;
+}
+h1,
+h2 {
+  color: orange;
 }
